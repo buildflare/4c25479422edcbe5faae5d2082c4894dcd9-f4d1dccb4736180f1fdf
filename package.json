@@ -25,7 +25,7 @@
     "@rollup/plugin-terser": "^1.0.0",
     "@rollup/plugin-typescript": "^12.3.0",
     "@shopify/babel-preset": "^25.0.2",
-    "@shopify/eslint-plugin": "^48.0.2",
+    "@shopify/eslint-plugin": "^50.0.0",
     "@shopify/prettier-config": "^1.1.4",
     "@shopify/typescript-configs": "^5.1.2",
     "@types/jest": "^30.0.0",
